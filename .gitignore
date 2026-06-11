@@ -1,0 +1,14 @@
+node_modules/
+.pnpm-store/
+.next/
+out/
+artifacts/
+cache/
+coverage/
+ignition/deployments/
+.env
+.env.local
+.env.*.local
+*.log
+*.tsbuildinfo
+.DS_Store
